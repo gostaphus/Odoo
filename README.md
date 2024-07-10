@@ -1,0 +1,2 @@
+# Odoo
+Apuntes de Odoo
